@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/betafinder/static/css/main.e7027f0b.chunk.css",
+    "main.css": "/betafinder/static/css/main.58bc3c72.chunk.css",
     "main.js": "/betafinder/static/js/main.f1f6bd1d.chunk.js",
     "main.js.map": "/betafinder/static/js/main.f1f6bd1d.chunk.js.map",
     "runtime-main.js": "/betafinder/static/js/runtime-main.5b8a1b38.js",
@@ -12,7 +12,7 @@
     "static/js/3.c5e6565e.chunk.js.map": "/betafinder/static/js/3.c5e6565e.chunk.js.map",
     "index.html": "/betafinder/index.html",
     "static/css/2.7da20df6.chunk.css.map": "/betafinder/static/css/2.7da20df6.chunk.css.map",
-    "static/css/main.e7027f0b.chunk.css.map": "/betafinder/static/css/main.e7027f0b.chunk.css.map",
+    "static/css/main.58bc3c72.chunk.css.map": "/betafinder/static/css/main.58bc3c72.chunk.css.map",
     "static/js/2.47c89783.chunk.js.LICENSE.txt": "/betafinder/static/js/2.47c89783.chunk.js.LICENSE.txt",
     "static/media/exit-button.ccc9e371.svg": "/betafinder/static/media/exit-button.ccc9e371.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.5b8a1b38.js",
     "static/css/2.7da20df6.chunk.css",
     "static/js/2.47c89783.chunk.js",
-    "static/css/main.e7027f0b.chunk.css",
+    "static/css/main.58bc3c72.chunk.css",
     "static/js/main.f1f6bd1d.chunk.js"
   ]
 }
