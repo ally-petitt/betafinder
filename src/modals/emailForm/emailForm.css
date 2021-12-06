@@ -1,0 +1,16 @@
+.modal {
+    height: 80vh;
+}
+
+.modal-body {
+    height: fit-content;
+    padding: 30px 10px !important;
+}
+
+iframe {
+    min-height: 700px;
+}
+
+.exit-btn {
+    cursor: pointer;
+}
